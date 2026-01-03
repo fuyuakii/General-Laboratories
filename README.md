@@ -5,6 +5,8 @@
   />
 </p>
 
+---
+
 # **`Laboratórios de Física e Eletricidade Básica (Physics and Basic Electricity Laboratories)`**
 
 > Este repositório tem como foco principal o armazenamento dos relatórios produzidos nas disciplinas de **Laboratório de Física**, tais como: **Laboratório de Cinemática e Dinâmica**, **Laboratório de Termodinâmica, Fluidos e Ondas** e **Laboratório de Eletricidade e Magnetismo**. Além dos relatórios de física, teremos os de **Eletricidade Básica** (Algumas partes foram feitas usando Word e `Excalidraw`). Todos os relatórios foram elaborados utilizando `LaTeX` (compilados no `Overleaf`). 
