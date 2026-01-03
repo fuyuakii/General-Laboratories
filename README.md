@@ -17,8 +17,7 @@
 
 ---
 
-<details>
-  <summary><b>Tradução para Inglês (Translation to English)</b></summary>
+
 
 > This repository is primarily focused on storing reports produced in **Physics Laboratory** courses, such as **Kinematics and Dynamics Laboratory**, **Thermodynamics, Fluids, and Waves Laboratory**, and **Electricity and Magnetism Laboratory**. In addition to the physics reports, it also includes reports from **Basic Electricity** courses (some parts were created using Word and `Excalidraw`). All reports were written using `LaTeX` (compiled on `Overleaf`). 
 
@@ -28,7 +27,7 @@
 > [!NOTE]
 > Within the repository structure, there are examples of works produced using this markup language.
 
- </details>
+
 
 
 ---
