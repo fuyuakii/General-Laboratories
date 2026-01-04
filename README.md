@@ -73,7 +73,16 @@
  
 ---
 
+## Repositório Recomendado (Recommended Repository)
 
+<p align="center">
+  <a href="https://github.com/fuyuakii/DC-Electrical-Circuit-Analysis">
+    <img src="https://svg.bookmark.style/api?url=https://github.com/fuyuakii/DC-Electrical-Circuit-Analysis&mode=dark&style=horizontal" alt="DC-Electrical-Circuit-Analysis"/>
+  </a>
+</p>
+
+
+---
 
 <p align="center">
   <img
