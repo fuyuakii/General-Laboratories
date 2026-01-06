@@ -81,9 +81,9 @@
   </a>
 </p>
 
----
 
-![Views](https://dynamic-repo-badges.vercel.app/svg/count/6/Repository%20Views/https://github.com/fuyuakii/General-Laboratories)
+
+
 
 ---
 
