@@ -72,7 +72,9 @@
 ```
 
  </details>
- 
+
+![Graph Project](General-Laboratories/proj.svg)
+
 ---
 
 ## Repositório Recomendado (Recommended Repository)
