@@ -73,7 +73,7 @@
 
  </details>
 
-![Graph Project](General-Laboratories/proj.svg)
+![Graph Project](proj.svg)
 
 ---
 
